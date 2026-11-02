@@ -13,7 +13,9 @@
 
 ### 📊 Проекты
 
-- [Higher School of Parsing](https://github.com/r20xd/higher-school-of-parsing) — сбор, хранение и визуализация данных из веб-источников. FastAPI, PostgreSQL, Celery, Redis, Docker.
+- [Higher School of Parsing](https://github.com/r20xd/higher-school-of-parsing) - сбор, хранение и визуализация данных из веб-источников. FastAPI, PostgreSQL, Celery, Redis, Docker.
+
+- [Zorky](https://github.com/r20xd/Zorky) - система видеоконтроля промышленной безопасности: обнаружение нарушений по видеопотокам с камер и оповещение ответственных. Поддержка отечественного ускорителя LinQ. Python, FastAPI, YOLO11, ONNX, React. Была выполнена в рамках хакатона **«Открой#Моспром»**, занято **6-е место в кейсе LinQ.** 
 
 ### 📫 Контакты
 
